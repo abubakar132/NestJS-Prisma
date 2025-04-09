@@ -49,3 +49,6 @@ The project will continue to evolve with the following features:
 
 This project serves as a practical guide for building a backend API with NestJS and Prisma, with clear and easy-to-follow documentation to help you get started with the stack and create a robust, full-featured blog platform.
 
+## Credits
+
+This project is based on the tutorial provided by [Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0). Special thanks to them for their comprehensive guide on building a REST API with NestJS and Prisma.
